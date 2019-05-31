@@ -124,10 +124,12 @@ Examples are available in the [examples folder](https://github.com/mbasso/asm-do
 Also, here is the list of third-party examples:
 
 - [asm-dom-OO-counters](https://github.com/kevinaud/asm-dom-OO-counters)
+- [asm-dom-cmake](https://github.com/ArthurSonzogni/asm-dom-cmake). For CMake lovers and webpack haters.
 
 and online Demos:
 
 - [TODO MVC](https://mbasso.github.io/asm-dom/examples/todomvc/)
+- [asm-dom-cmake](http://arthursonzogni.github.io/asm-dom-cmake/).
 
 ## Roadmap
 
